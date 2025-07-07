@@ -92,10 +92,35 @@
 * [Агнер Краруп Ерланг](https://en.wikipedia.org/wiki/Agner_Krarup_Erlang)
 * [Ерланг (јединица)](https://en.wikipedia.org/wiki/Erlang_(unit))
 * [Jenkins (програм)](https://en.wikipedia.org/wiki/Jenkins_(software))
+* [Consumer Electronics Show](https://en.wikipedia.org/wiki/Consumer_Electronics_Show)
+* [GPT-1](https://en.wikipedia.org/wiki/GPT-1)
+* [GPT-2](https://en.wikipedia.org/wiki/GPT-2)
+* [GPT-3](https://en.wikipedia.org/wiki/GPT-3)
+* [GPT-4](https://en.wikipedia.org/wiki/GPT-4)
+* [Елипсоид](https://en.wikipedia.org/wiki/Ellipsoid)
+* [Симетрична матрица](https://en.wikipedia.org/wiki/Symmetric_matrix)
+</details>
+
+#### Област: Вештачка интелигенција (ВИ)
+
+<details markdown='block'>
+<summary>Списак предложених тема</summary>
 * [Основни модели](https://en.wikipedia.org/wiki/Foundation_models)
 * [Генеративни предобучени трансформер](https://en.wikipedia.org/wiki/Generative_pre-trained_transformer)
 * [GPT-1](https://en.wikipedia.org/wiki/GPT-1)
 * [GPT-2](https://en.wikipedia.org/wiki/GPT-2)
 * [GPT-3](https://en.wikipedia.org/wiki/GPT-3)
 * [GPT-4](https://en.wikipedia.org/wiki/GPT-4)
+* [GPT-4o](https://en.wikipedia.org/wiki/GPT-4o)
+* [GPT-4.5](https://en.wikipedia.org/wiki/GPT-4.5)
+* [OpenAI o1](https://en.wikipedia.org/wiki/OpenAI_o1)
+* [OpenAI o3](https://en.wikipedia.org/wiki/OpenAI_o3)
+* [Велики језички модел](https://en.wikipedia.org/wiki/Large_language_model)
+* [Халуцинација (вештачка интелигенција)](https://en.wikipedia.org/wiki/Hallucination_(artificial_intelligence))
+* [Општа вештачка интелигенција](https://en.wikipedia.org/wiki/Artificial_general_intelligence)
+* [Суперинтелигенција](https://en.wikipedia.org/wiki/Superintelligence)
+* [BLEU](https://en.wikipedia.org/wiki/BLEU)
+* [F-мера](https://en.wikipedia.org/wiki/F-score)
+* [METEOR](https://en.wikipedia.org/wiki/METEOR)
+* [ROUGE](https://en.wikipedia.org/wiki/ROUGE_(metric))
 </details>
