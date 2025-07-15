@@ -93,12 +93,9 @@
 * [Ерланг (јединица)](https://en.wikipedia.org/wiki/Erlang_(unit))
 * [Jenkins (програм)](https://en.wikipedia.org/wiki/Jenkins_(software))
 * [Consumer Electronics Show](https://en.wikipedia.org/wiki/Consumer_Electronics_Show)
-* [GPT-1](https://en.wikipedia.org/wiki/GPT-1)
-* [GPT-2](https://en.wikipedia.org/wiki/GPT-2)
-* [GPT-3](https://en.wikipedia.org/wiki/GPT-3)
-* [GPT-4](https://en.wikipedia.org/wiki/GPT-4)
 * [Елипсоид](https://en.wikipedia.org/wiki/Ellipsoid)
 * [Симетрична матрица](https://en.wikipedia.org/wiki/Symmetric_matrix)
+* [Принцип најнижих привилегија](https://en.wikipedia.org/wiki/Principle_of_least_privilege)
 </details>
 
 #### Област: Вештачка интелигенција (ВИ)
