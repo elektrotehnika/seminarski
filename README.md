@@ -109,7 +109,9 @@
 * [GPT-3](https://en.wikipedia.org/wiki/GPT-3)
 * [GPT-4](https://en.wikipedia.org/wiki/GPT-4)
 * [GPT-4o](https://en.wikipedia.org/wiki/GPT-4o)
+* [GPT-4.1](https://en.wikipedia.org/wiki/GPT-4.1)
 * [GPT-4.5](https://en.wikipedia.org/wiki/GPT-4.5)
+* [GPT-5](https://en.wikipedia.org/wiki/GPT-5)
 * [OpenAI o1](https://en.wikipedia.org/wiki/OpenAI_o1)
 * [OpenAI o3](https://en.wikipedia.org/wiki/OpenAI_o3)
 * [Велики језички модел](https://en.wikipedia.org/wiki/Large_language_model)
@@ -120,4 +122,5 @@
 * [F-мера](https://en.wikipedia.org/wiki/F-score)
 * [METEOR](https://en.wikipedia.org/wiki/METEOR)
 * [ROUGE](https://en.wikipedia.org/wiki/ROUGE_(metric))
+* [Кодирање паром бајтова](https://en.wikipedia.org/wiki/Byte-pair_encoding)
 </details>
